@@ -1,0 +1,5 @@
+flask-SLQAlchemy
+flask-Cors
+Python=3.12.10
+Flask=3.1.2
+Werkzeug=3.1.3
